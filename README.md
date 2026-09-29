@@ -1,16 +1,59 @@
-# React + Vite
+# React Learning
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my React learning journey, practice exercises, and projects built while learning React and modern frontend development.
 
-Currently, two official plugins are available:
+## 📁 Projects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 1. React Practice
 
-## React Compiler
+A collection of React fundamentals and practice exercises.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Topics covered include:
+- React components
+- JSX
+- Props
+- Rendering
+- Event handling
+- State
+- Hooks
+- `useEffect`
+- Working with forms and user input
 
-## Expanding the ESLint configuration
+📂 [View React Practice](./react-practice)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 2. Travel Journal
+
+A React project based on a travel journal UI.
+
+This project helped me practice:
+- Components
+- Props
+- Reusable components
+- Rendering data from JavaScript
+- Arrays and `.map()`
+- Images and assets
+- CSS styling
+- Component-based UI design
+
+📂 [View Travel Journal](./travel-journal)
+
+---
+
+## 🛠️ Technologies
+
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Git & GitHub
+
+## 🎯 Goal
+
+To build a strong foundation in React and frontend development through hands-on projects and gradually progress toward building complete web applications.
+
+## 📚 Learning
+
+This repository is continuously updated as I learn new React concepts and build more projects.
